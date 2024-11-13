@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]!
+# 👋 Hello! I'm Angel Balu!
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a passion for learning and building projects that solve real-world problems. My journey has been fueled by curiosity and a deep interest in how technology can improve lives and drive innovation.
 
@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for learning 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/angelbalu94)
+- **Email**: angelbalu94@gmail.com
 
 ---
 
