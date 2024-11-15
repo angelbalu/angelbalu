@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for learning 
 
 ## 🌟 About Me
 
-- 💻 Experienced in **AWS, Java, Python,** and **Web Development**
+- 💻 Knowlege in **AWS, Java, Python,** and **Web Development**
 - 🌱 Currently expanding my knowledge in **cloud computing** and **technical support**
 - 💬 Ask me about **cloud solutions, automation,and **full-stack development**
 - 🎯 Always eager to take on new challenges and build meaningful projects
