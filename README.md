@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for learning 
 
 ### Cloud & DevOps
 - **AWS Cloud**: EC2, S3, Lambda, RDS, CloudFormation
-- **CI/CD**: GitHub Actions, Jenkins
+- **CI/CD**: GitHub Actions
 
 ### Programming Languages
 - **Java**: Building scalable applications and backend systems
@@ -26,16 +26,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for learning 
 
 ### Web Development
 - **HTML/CSS/JavaScript**: For crafting responsive web applications
-- **React**: Building dynamic user interfaces
-- **Node.js & Express**: Creating robust backends
 
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
